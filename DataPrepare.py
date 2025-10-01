@@ -1,7 +1,7 @@
 import pandas as pd
 
 # --- Step 1: Preview Excel to find actual header row ---
-input_file = r"C:\Users\Rares\Desktop\GroupProject\Shanghai Containerized Freight Index.xlsx"
+input_file = r"C:\Users\Lars\OneDrive\Documents\Stunning-Bees\Shanghai_Containerized_Freight_Prepared.xlsx"
 
 # Read without header to inspect first 10 rows
 df_preview = pd.read_excel(input_file, header=None)
