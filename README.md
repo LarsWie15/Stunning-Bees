@@ -2,4 +2,4 @@
 The greatest bestest goodest amizingest project group
 
 
-![Bert-en-Ernie-Euro-Entertainment](https://github.com/user-attachments/assets/68174168-56ab-4287-a4ab-7dee10671c4f)
+![2923](https://github.com/user-attachments/assets/3b772809-9b3b-44e1-a0d8-7fefa8920ae5)
