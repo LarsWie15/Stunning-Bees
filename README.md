@@ -2,4 +2,4 @@
 The greatest bestest goodest amizingest project group
 
 
-https://www.nu.nl/media/5467223/sesamstraat-schrijver-zegt-dat-bert-en-ernie-een-koppel-zijn.html
+![2923](https://github.com/user-attachments/assets/3b772809-9b3b-44e1-a0d8-7fefa8920ae5)
